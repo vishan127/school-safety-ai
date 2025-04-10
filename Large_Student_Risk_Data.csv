@@ -1,0 +1,101 @@
+Student ID,Risk Signals,Attendance %,Grades,Discipline Incidents,Counselor Visits,Previous Alerts,Social Post,Risk Score,NLP Score,Action
+S1000,Skipping classes,54,3.43,2,2,1,Feeling overwhelmed,12,1,🚨 Escalate to Counselor
+S1001,Falling asleep in class,78,3.55,3,1,0,Life is hard,7,1,👀 Add to Watchlist
+S1002,Skipping classes,57,1.76,2,1,2,Nobody understands me,14,1,🚨 Escalate to Counselor
+S1003,Falling asleep in class,73,2.31,1,1,2,Things are okay,8,0,👀 Add to Watchlist
+S1004,None,85,2.52,0,3,0,Nobody understands me,1,1,✅ No Action Needed
+S1005,Falling asleep in class,68,1.92,4,1,0,Things are okay,11,0,🚨 Escalate to Counselor
+S1006,Falling asleep in class,46,3.63,0,0,0,Excited for the weekend!,7,0,👀 Add to Watchlist
+S1007,None,63,1.04,0,1,0,Feeling overwhelmed,6,1,👀 Add to Watchlist
+S1008,None,69,3.22,3,1,0,Can't focus anymore,6,1,👀 Add to Watchlist
+S1009,Aggressive behavior,84,1.91,0,2,1,Things are okay,8,0,👀 Add to Watchlist
+S1010,Falling asleep in class,90,3.78,0,3,3,I hate everything right now,7,1,👀 Add to Watchlist
+S1011,Falling asleep in class,97,1.46,2,0,2,I feel like giving up,11,1,🚨 Escalate to Counselor
+S1012,Aggressive behavior,69,3.61,4,3,2,Life is hard,12,1,🚨 Escalate to Counselor
+S1013,Falling asleep in class,58,1.26,3,0,1,Nobody understands me,14,1,🚨 Escalate to Counselor
+S1014,Falling asleep in class,95,2.2,1,3,3,Nobody understands me,9,1,👀 Add to Watchlist
+S1015,Aggressive behavior,66,1.06,4,0,1,Nobody understands me,14,1,🚨 Escalate to Counselor
+S1016,Disruptive in class,73,1.21,4,3,1,Things are okay,10,0,🚨 Escalate to Counselor
+S1017,None,48,2.41,0,0,1,Had a great day,7,0,👀 Add to Watchlist
+S1018,Skipping classes,48,3.2,2,0,2,Excited for the weekend!,11,0,🚨 Escalate to Counselor
+S1019,None,86,2.58,4,2,0,Nobody understands me,3,1,✅ No Action Needed
+S1020,None,57,1.67,2,1,2,Life is hard,10,1,🚨 Escalate to Counselor
+S1021,Skipping classes,60,1.1,2,3,0,Life is hard,12,1,🚨 Escalate to Counselor
+S1022,Disruptive in class,71,1.34,0,0,3,Had a great day,8,0,👀 Add to Watchlist
+S1023,Aggressive behavior,66,3.26,2,0,0,I feel like giving up,10,1,🚨 Escalate to Counselor
+S1024,None,57,3.21,5,3,0,Things are okay,5,0,✅ No Action Needed
+S1025,Falling asleep in class,100,1.94,3,2,0,I hate everything right now,9,1,👀 Add to Watchlist
+S1026,Aggressive behavior,95,2.03,1,2,2,I feel like giving up,9,1,👀 Add to Watchlist
+S1027,Falling asleep in class,75,1.1,5,2,0,I feel like giving up,9,1,👀 Add to Watchlist
+S1028,Falling asleep in class,57,1.9,0,0,3,Life is hard,12,1,🚨 Escalate to Counselor
+S1029,Aggressive behavior,86,2.75,4,0,3,Things are okay,8,0,👀 Add to Watchlist
+S1030,Skipping classes,48,2.28,5,3,3,Can't focus anymore,14,1,🚨 Escalate to Counselor
+S1031,Falling asleep in class,40,2.61,5,1,0,Life is hard,10,1,🚨 Escalate to Counselor
+S1032,Falling asleep in class,70,1.92,5,0,3,I feel like giving up,11,1,🚨 Escalate to Counselor
+S1033,Disruptive in class,92,2.84,1,2,1,Things are okay,6,0,👀 Add to Watchlist
+S1034,Skipping classes,58,1.22,1,0,2,Excited for the weekend!,11,0,🚨 Escalate to Counselor
+S1035,Falling asleep in class,41,1.54,0,1,1,Feeling overwhelmed,12,1,🚨 Escalate to Counselor
+S1036,Disruptive in class,40,2.62,0,3,0,Had a great day,7,0,👀 Add to Watchlist
+S1037,Aggressive behavior,71,2.5,5,0,3,School is too much,8,0,👀 Add to Watchlist
+S1038,Falling asleep in class,86,1.73,3,3,0,Feeling overwhelmed,9,1,👀 Add to Watchlist
+S1039,Disruptive in class,73,2.46,0,0,1,Things are okay,8,0,👀 Add to Watchlist
+S1040,Disruptive in class,62,2.05,0,2,3,Life is hard,12,1,🚨 Escalate to Counselor
+S1041,Aggressive behavior,40,3.53,5,3,3,Life is hard,12,1,🚨 Escalate to Counselor
+S1042,Aggressive behavior,53,1.71,4,0,3,Nobody understands me,14,1,🚨 Escalate to Counselor
+S1043,None,67,2.57,2,3,3,Can't focus anymore,8,1,👀 Add to Watchlist
+S1044,Aggressive behavior,46,3.84,2,3,1,Had a great day,11,0,🚨 Escalate to Counselor
+S1045,Falling asleep in class,85,2.1,1,3,0,Things are okay,6,0,👀 Add to Watchlist
+S1046,Disruptive in class,56,1.92,2,0,1,I feel like giving up,14,1,🚨 Escalate to Counselor
+S1047,None,99,2.08,0,0,1,I feel like giving up,5,1,✅ No Action Needed
+S1048,Aggressive behavior,92,1.23,2,2,3,Life is hard,11,1,🚨 Escalate to Counselor
+S1049,Aggressive behavior,89,3.57,5,3,0,Life is hard,7,1,👀 Add to Watchlist
+S1050,Falling asleep in class,66,2.43,1,0,3,Had a great day,11,0,🚨 Escalate to Counselor
+S1051,Aggressive behavior,91,3.97,4,0,1,I feel like giving up,9,1,👀 Add to Watchlist
+S1052,Disruptive in class,93,2.72,0,1,2,Excited for the weekend!,6,0,👀 Add to Watchlist
+S1053,Falling asleep in class,69,2.27,0,0,3,Life is hard,12,1,🚨 Escalate to Counselor
+S1054,Falling asleep in class,77,2.81,3,0,0,Had a great day,6,0,👀 Add to Watchlist
+S1055,Aggressive behavior,92,1.2,3,3,0,I hate everything right now,9,1,👀 Add to Watchlist
+S1056,None,54,1.9,3,2,2,Had a great day,9,0,👀 Add to Watchlist
+S1057,Falling asleep in class,44,1.28,4,3,2,Life is hard,14,1,🚨 Escalate to Counselor
+S1058,Falling asleep in class,83,3.49,2,3,2,Feeling overwhelmed,9,1,👀 Add to Watchlist
+S1059,None,96,2.52,3,3,2,Excited for the weekend!,4,0,✅ No Action Needed
+S1060,None,74,1.4,2,2,2,Feeling overwhelmed,7,1,👀 Add to Watchlist
+S1061,None,90,3.35,0,1,1,Can't focus anymore,3,1,✅ No Action Needed
+S1062,Skipping classes,90,3.51,5,1,2,Life is hard,9,1,👀 Add to Watchlist
+S1063,Disruptive in class,75,1.95,0,3,0,Had a great day,6,0,👀 Add to Watchlist
+S1064,Skipping classes,42,3.28,0,2,0,Had a great day,7,0,👀 Add to Watchlist
+S1065,Aggressive behavior,77,1.14,3,3,1,Can't focus anymore,11,1,🚨 Escalate to Counselor
+S1066,None,83,2.67,1,1,3,Things are okay,2,0,✅ No Action Needed
+S1067,None,54,1.25,0,2,3,Can't focus anymore,8,1,👀 Add to Watchlist
+S1068,Falling asleep in class,58,1.9,1,0,2,I hate everything right now,12,1,🚨 Escalate to Counselor
+S1069,Falling asleep in class,53,3.98,3,1,3,I hate everything right now,12,1,🚨 Escalate to Counselor
+S1070,Aggressive behavior,100,2.2,4,1,2,Excited for the weekend!,10,0,🚨 Escalate to Counselor
+S1071,Disruptive in class,51,2.18,2,3,3,I hate everything right now,14,1,🚨 Escalate to Counselor
+S1072,Skipping classes,91,1.39,1,2,2,School is too much,8,0,👀 Add to Watchlist
+S1073,Aggressive behavior,66,3.2,5,0,1,Can't focus anymore,12,1,🚨 Escalate to Counselor
+S1074,Disruptive in class,98,2.0,2,2,3,Things are okay,10,0,🚨 Escalate to Counselor
+S1075,Aggressive behavior,46,2.91,0,1,3,I feel like giving up,10,1,🚨 Escalate to Counselor
+S1076,Aggressive behavior,51,2.15,0,1,3,I hate everything right now,12,1,🚨 Escalate to Counselor
+S1077,None,61,1.92,3,0,0,Can't focus anymore,8,1,👀 Add to Watchlist
+S1078,Aggressive behavior,81,2.28,1,0,0,Life is hard,7,1,👀 Add to Watchlist
+S1079,Skipping classes,61,2.37,2,3,3,Had a great day,13,0,🚨 Escalate to Counselor
+S1080,None,67,2.8,2,1,0,Feeling overwhelmed,6,1,👀 Add to Watchlist
+S1081,Disruptive in class,64,3.53,3,3,0,Feeling overwhelmed,10,1,🚨 Escalate to Counselor
+S1082,Falling asleep in class,89,2.99,3,3,2,Feeling overwhelmed,9,1,👀 Add to Watchlist
+S1083,Falling asleep in class,40,1.27,4,1,2,Had a great day,13,0,🚨 Escalate to Counselor
+S1084,Aggressive behavior,98,2.41,4,1,1,Nobody understands me,11,1,🚨 Escalate to Counselor
+S1085,Falling asleep in class,78,2.14,1,3,2,Had a great day,8,0,👀 Add to Watchlist
+S1086,Falling asleep in class,40,3.05,2,1,1,Feeling overwhelmed,12,1,🚨 Escalate to Counselor
+S1087,Falling asleep in class,69,2.83,3,0,2,Nobody understands me,12,1,🚨 Escalate to Counselor
+S1088,Falling asleep in class,48,3.23,4,1,1,I feel like giving up,12,1,🚨 Escalate to Counselor
+S1089,Aggressive behavior,58,1.44,5,0,0,Had a great day,11,0,🚨 Escalate to Counselor
+S1090,Aggressive behavior,54,3.62,2,2,1,Things are okay,11,0,🚨 Escalate to Counselor
+S1091,None,48,3.25,2,2,3,Can't focus anymore,8,1,👀 Add to Watchlist
+S1092,Falling asleep in class,51,1.46,2,0,3,Can't focus anymore,14,1,🚨 Escalate to Counselor
+S1093,Aggressive behavior,81,1.82,5,1,3,Excited for the weekend!,10,0,🚨 Escalate to Counselor
+S1094,Skipping classes,55,1.35,5,1,3,I hate everything right now,14,1,🚨 Escalate to Counselor
+S1095,Disruptive in class,76,3.28,0,0,0,Had a great day,4,0,✅ No Action Needed
+S1096,Disruptive in class,65,2.73,1,3,3,Excited for the weekend!,9,0,👀 Add to Watchlist
+S1097,None,75,1.1,0,0,2,Excited for the weekend!,4,0,✅ No Action Needed
+S1098,Skipping classes,91,3.69,5,0,1,Nobody understands me,9,1,👀 Add to Watchlist
+S1099,Falling asleep in class,72,3.05,5,0,1,Feeling overwhelmed,9,1,👀 Add to Watchlist
